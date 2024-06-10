@@ -1,0 +1,13 @@
+{
+  "module_id": "bill:examplePackage",
+  "visibility": "public",
+  "url": "https://github.com/williamjhyland/examplePackage",
+  "description": "This is an example of simply using the registry as a means to deploy a package to a device.",
+  "models": [
+    {
+      "api": "rdk:component:generic",
+      "model": "bill:examplePackage:examplePackage"
+    }
+  ],
+  "entrypoint": "run.sh"
+}
