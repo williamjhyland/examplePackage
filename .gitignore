@@ -6,3 +6,5 @@ extractHere/*
 
 # Ensure the directory remains empty by adding a placeholder file
 !extractHere/.gitkeep
+
+viamModule.tar.gz
