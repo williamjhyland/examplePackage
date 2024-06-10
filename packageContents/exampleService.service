@@ -1,0 +1,11 @@
+[Unit]
+Description=Example Service
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/python3 /path/to/your_script.py
+Restart=always
+User=nobody
+
+[Install]
+WantedBy=multi-user.target

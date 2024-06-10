@@ -1,0 +1,2 @@
+# Add your project dependencies here
+viam-sdk==1.0.0

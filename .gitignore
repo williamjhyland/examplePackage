@@ -1,0 +1,8 @@
+# Ignore all content inside the extractHere directory
+extractHere/*
+
+# Except the extractHere directory itself
+!extractHere/
+
+# Ensure the directory remains empty by adding a placeholder file
+!extractHere/.gitkeep
