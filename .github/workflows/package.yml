@@ -1,4 +1,4 @@
-# This workflow will build a python project and publish it to the Viam module registry
+# This workflow will build a package and publish it to the Viam module registry
 
 name: package
 
